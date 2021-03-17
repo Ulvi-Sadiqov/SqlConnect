@@ -1,0 +1,10 @@
+C:\Users\Elvin\source\repos\Test\SQLConnection\bin\Debug\SQLConnection.exe.config
+C:\Users\Elvin\source\repos\Test\SQLConnection\bin\Debug\SQLConnection.exe
+C:\Users\Elvin\source\repos\Test\SQLConnection\bin\Debug\SQLConnection.pdb
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.csprojAssemblyReference.cache
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.Form1.resources
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.Properties.Resources.resources
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.csproj.GenerateResource.cache
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.exe
+C:\Users\Elvin\source\repos\Test\SQLConnection\obj\Debug\SQLConnection.pdb
